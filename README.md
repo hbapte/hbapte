@@ -62,7 +62,7 @@ I am a Full-Stack Engineer, specializing in Front-End Development. I am passiona
 🌼 Looking for remote software opportunities.
 
 📫 Feel free to reach out to me if you have any questions or would like to collaborate on a project via
-email : ijbapte@gmail.com  
+email: ijbapte@gmail.com  
 
 <!-- 
 
