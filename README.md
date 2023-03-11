@@ -15,14 +15,14 @@ I am a Full-Stack Engineer, specializing in Front-End Development. I am passiona
 [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://linktr.ee/hbapte/)
 [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://rxresu.me/ijbapte/ishimwe-jean-baptiste)
 [![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hbapte)
-[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ruppysuppy)
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/hbapte)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ijbapte@gmail.com)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hbapte/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](t.me/hbapte)
 [![Linktree Badge](https://img.shields.io/badge/Linktree-hbapte-green)](https://www.linktr.ee/hbapte)
 [![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/HBaptee)
 [![medium](https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://hbapte.medium.com/)
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hbapte.hashnode.dev/)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@hbapte)
 [![Dev.to](https://img.shields.io/badge/Dev.to-hbapte-green?logo=dev.to&style=flat-square&logoColor=white)](https://dev.to/hbapte)
 
 
@@ -79,8 +79,7 @@ Email : ijbapte@gmail.com
 ## Blog
 
 Apart from coding, I also maintain a blog related to software topics, you can find it here 
-[![Medium](https://img.shields.io/badge/Medium-Profile-blue?style=flat-square&logo=medium)](https://hbapte.medium.com/)  [![Hashnode](https://img.shields.io/badge/Hashnode-Profile-blue?style=flat-square&logo=hashnode)](https://hashnode.com/@hbapte) 
-[![Dev.to](https://img.shields.io/badge/Dev.to-hbapte-green?logo=dev.to&style=flat-square&logoColor=white)](https://dev.to/hbapte)
+[![Medium](https://img.shields.io/badge/Medium-Profile-blue?style=flat-square&logo=medium)](https://hbapte.medium.com/)  [![Hashnode](https://img.shields.io/badge/Hashnode-Profile-blue?style=flat-square&logo=hashnode)](https://hashnode.com/@hbapte) [![Dev.to](https://img.shields.io/badge/Dev.to-hbapte-green?logo=dev.to&style=flat-square&logoColor=white)](https://dev.to/hbapte)
 
 ## GitHub Stats
 
