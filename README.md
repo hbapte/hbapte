@@ -18,7 +18,7 @@ I am a Full-Stack Engineer, specializing in Front-End Development. I am passiona
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/hbapte)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ijbapte@gmail.com)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hbapte/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](t.me/hbapte)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hbapte)
 [![Linktree Badge](https://img.shields.io/badge/Linktree-hbapte-green)](https://www.linktr.ee/hbapte)
 [![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/HBaptee)
 [![medium](https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://hbapte.medium.com/)
@@ -62,7 +62,7 @@ I am a Full-Stack Engineer, specializing in Front-End Development. I am passiona
 🌼 Looking for remote software opportunities.
 
 📫 Feel free to reach out to me if you have any questions or would like to collaborate on a project via
-Email : ijbapte@gmail.com  
+email : ijbapte@gmail.com  
 
 <!-- 
 
