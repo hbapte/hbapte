@@ -5,6 +5,7 @@
 
 I am studying Software Engineering in ALX Africa where I am honing my skills and working on exciting projects, I am taking specialisation in Front-End Development. I am passionate about creating beautiful, responsive websites and applications that provide great user experiences.
 
+
 ## Education
 - ALX Africa - Full-Stack Engineering Program (2022-2023)
 
