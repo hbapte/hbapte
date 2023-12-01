@@ -5,13 +5,15 @@
 ## 🚀 About Me
 
 
-I am studying Software Engineering in ALX Africa where I am honing my skills and working on exciting projects, I am taking specialisation in Front-End Development. I am passionate about creating beautiful, responsive websites and applications that provide great user experiences.
+I am studying Computer Science in University of People, also I graduated in Software Engineering || Frontend in ALX Africa. I am passionate about creating beautiful, responsive websites and applications that provide great user experiences.
 
 
 
 
 ## Education
-- ALX Africa - Full-Stack Engineering Program (2022-2023)
+- University of People - Computer Science (2023 - 2026)
+
+- ALX Africa - Software Engineering Program (2022-2023)
 
 
 
@@ -19,7 +21,7 @@ I am studying Software Engineering in ALX Africa where I am honing my skills and
 ## 🔗 Links
 
 [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://linktr.ee/hbapte/)
-[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://rxresu.me/ijbapte/tech-ishimwe-jean-baptiste-)
+[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://rxresu.me/ijbapte/hbaptee-)
 [![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hbapte)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/hbapte)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ijbapte@gmail.com)
@@ -40,7 +42,6 @@ I am studying Software Engineering in ALX Africa where I am honing my skills and
 
 - React
 
-- Node.js
 
 ## Technologies & Tools
 
@@ -59,7 +60,7 @@ I am studying Software Engineering in ALX Africa where I am honing my skills and
 
 ## Others
 
-👩‍💻 I'm currently working on Personal portfolio website 
+👩‍💻 I'm currently working on Different projects
 
 🧠 I'm currently learning React
 
@@ -83,7 +84,9 @@ email: ijbapte@gmail.com
 ## Blog
 
 Apart from coding, I also maintain a blog related to software topics, you can find it here 
-[![Medium](https://img.shields.io/badge/Medium-Profile-blue?style=flat-square&logo=medium)](https://hbapte.medium.com/)  [![Hashnode](https://img.shields.io/badge/Hashnode-Profile-blue?style=flat-square&logo=hashnode)](https://hashnode.com/@hbapte) [![Dev.to](https://img.shields.io/badge/Dev.to-hbapte-green?logo=dev.to&style=flat-square&logoColor=white)](https://dev.to/hbapte)
+[Hashnode](https://img.shields.io/badge/Hashnode-Profile-blue?style=flat-square&logo=hashnode)](https://hashnode.com/@hbapte)
+
+[![Medium](https://img.shields.io/badge/Medium-Profile-blue?style=flat-square&logo=medium)](https://hbapte.medium.com/)  [! [![Dev.to](https://img.shields.io/badge/Dev.to-hbapte-green?logo=dev.to&style=flat-square&logoColor=white)](https://dev.to/hbapte)
 
 ## GitHub Stats
 
