@@ -54,7 +54,6 @@ I am studying Computer Science in University of People, also I graduated in Soft
 [![VS_Code](https://img.shields.io/badge/≡-VS_Code-007ACC?logo=visual-studio-code&style=flat-square&logoColor=007ACC&labelColor=282828)](https://code.visualstudio.com/)
 [![CSS3](https://img.shields.io/badge/≡-CSS3-1572B6?logo=css3&style=flat-square&logoColor=1572B6&labelColor=282828)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Python](https://img.shields.io/badge/≡-Python-3776AB?logo=Python&style=flat-square&labelColor=282828)](https://www.python.org/)
-[![MySQL](https://img.shields.io/badge/≡-MySQL-4479A1?logo=mysql&style=flat-square&labelColor=282828)](https://www.mysql.com/)
 [![React](https://img.shields.io/badge/≡-React-61DAFB?logo=react&style=flat-square&labelColor=282828)](https://reactjs.org/)
 [![Vercel](https://img.shields.io/badge/≡-Vercel-000000?&style=flat-square&logo=vercel&labelColor=282828)](https://vercel.com/)
 
@@ -84,9 +83,9 @@ email: ijbapte@gmail.com
 ## Blog
 
 Apart from coding, I also maintain a blog related to software topics, you can find it here 
-[Hashnode](https://img.shields.io/badge/Hashnode-Profile-blue?style=flat-square&logo=hashnode)](https://hashnode.com/@hbapte)
+[![Hashnode](https://img.shields.io/badge/Hashnode-Profile-blue?style=flat-square&logo=hashnode)](https://hashnode.com/@hbapte)
 
-[![Medium](https://img.shields.io/badge/Medium-Profile-blue?style=flat-square&logo=medium)](https://hbapte.medium.com/)  [! [![Dev.to](https://img.shields.io/badge/Dev.to-hbapte-green?logo=dev.to&style=flat-square&logoColor=white)](https://dev.to/hbapte)
+[![Medium](https://img.shields.io/badge/Medium-Profile-blue?style=flat-square&logo=medium)](https://hbapte.medium.com/)   [![Dev.to](https://img.shields.io/badge/Dev.to-hbapte-green?logo=dev.to&style=flat-square&logoColor=white)](https://dev.to/hbapte)
 
 ## GitHub Stats
 
