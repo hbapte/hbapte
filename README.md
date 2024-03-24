@@ -37,9 +37,11 @@ I am studying Computer Science at the University of People, also I graduated in 
 
 - HTML & CSS
 
-- JavaScript
+- JavaScript & Typescript 
 
 - React
+
+- Headless CMS
 
 
 ## Technologies & Tools
