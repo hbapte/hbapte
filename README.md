@@ -47,25 +47,16 @@ I am studying Computer Science at the University of People, also I graduated in 
 
 ## Technologies & Tools
 
-[![HTML5](https://img.shields.io/badge/≡-HTML5-E34F26?&style=flat-square&logo=html5&labelColor=282828)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
 [![Git](https://img.shields.io/badge/≡-Git-F05032?logo=git&style=flat-square&labelColor=282828)](https://git-scm.com/)
-[![JavaScript](https://img.shields.io/badge/≡-JavaScript-F7DF1E?logo=javascript&style=flat-square&labelColor=282828)](https://developer.mozilla.org/en-US/docs/Web/javascript)
 [![GNU_Bash](https://img.shields.io/badge/≡-GNU_Bash-4EAA25?logo=GNU-Bash&style=flat-square&labelColor=282828)](https://www.gnu.org/software/bash/)
-[![Vim](https://img.shields.io/badge/≡-Vim-019733?logo=Vim&style=flat-square&logoColor=019733&labelColor=282828)](https://www.vim.org/)
-[![Vagrant](https://img.shields.io/badge/≡-Vagrant-1563FF?logo=vagrant&style=flat-square&logoColor=1563FF&labelColor=282828)](https://www.vagrantup.com/)
 [![VS_Code](https://img.shields.io/badge/≡-VS_Code-007ACC?logo=visual-studio-code&style=flat-square&logoColor=007ACC&labelColor=282828)](https://code.visualstudio.com/)
-[![CSS3](https://img.shields.io/badge/≡-CSS3-1572B6?logo=css3&style=flat-square&logoColor=1572B6&labelColor=282828)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Python](https://img.shields.io/badge/≡-Python-3776AB?logo=Python&style=flat-square&labelColor=282828)](https://www.python.org/)
-[![React](https://img.shields.io/badge/≡-React-61DAFB?logo=react&style=flat-square&labelColor=282828)](https://reactjs.org/)
-[![Vercel](https://img.shields.io/badge/≡-Vercel-000000?&style=flat-square&logo=vercel&labelColor=282828)](https://vercel.com/)
 
 ## Others
 
 👩‍💻 I'm currently working on Different projects
 
-🧠 I'm currently learning React
-
-🌼 Looking for remote software opportunities.
+🌼 Looking for opportunities.
 
 📫 Feel free to reach out to me if you have any questions or would like to collaborate on a project via
 email: ijbapte@gmail.com  
