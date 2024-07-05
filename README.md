@@ -37,11 +37,11 @@ I am studying Computer Science at the University of People, also I graduated in 
 ## 🛠 Skills & Tech Stack
 
 - HTML & CSS
-
+- TailwindCSS
 - JavaScript & Typescript 
-
-- React
-
+- React & Nextjs
+- Express
+- MongoDB & Postgres
 - Headless CMS
 
 
