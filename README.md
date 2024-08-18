@@ -9,6 +9,7 @@ I am studying Computer Science at the University of People, also I graduated in 
 
 
 
+
 ## Education
 - Andela Rwanda (2024)
 - University of People - Computer Science (2023 - 2026)
